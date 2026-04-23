@@ -1,17 +1,39 @@
-# personal_expense_tracker
+# 💰 RupeeTracker Pro – Personal Expense Tracker
 
-A new Flutter project.
+A modern and feature-rich **Flutter-based Personal Expense Tracker** that helps users manage daily expenses, visualize spending patterns, and stay financially organized.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Simple Login System (Demo credentials included)
+- ➕ Add, Edit, and Delete Expenses
+- 📂 Categorized Spending (Food, Travel, Bills, Shopping, etc.)
+- 📊 Beautiful Pie Chart Analytics using fl_chart
+- 📅 Date-wise expense tracking
+- 🔍 Filter transactions by category
+- 📱 Clean UI with Material 3 and Dark Theme
+- 💡 Real-time total expense calculation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **UI Design:** Material 3  
+- **Charts:** fl_chart  
+- **Date Formatting:** intl  
+
+---
+
+## 📸 App Screens
+
+- Login Screen  
+- Dashboard (Overview + Total Expenses)  
+- Expense Logs (Filter + Edit/Delete)  
+- Analytics (Pie Chart + Category Breakdown)  
+
+---
+
+## 🔑 Demo Login Credentials
